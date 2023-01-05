@@ -5,7 +5,7 @@ on:
 
   # Uncomment below to schedule your job
    schedule:
-     - cron: "22 12 * * *"
+     - cron: "27 12 * * *"
 
 env:
   TZ: Asia/Shanghai
